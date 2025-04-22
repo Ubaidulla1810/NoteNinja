@@ -44,7 +44,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 
 1.  Clone the repository:
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone [https://github.com/Ubaidulla1810/NoteNinja.git]
     ```
 
 2.  Navigate to the project directory:
