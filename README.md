@@ -4,6 +4,14 @@ NoteNinja is a simple, single-page web application designed for quickly creating
 
 ---
 
+## 🌐 Live Demo
+
+You can try the application live here:
+
+  NoteNinja Live Demo https://note-ninja-uk.vercel.app
+
+---
+
 ## ✨ Features
 
 * **Create Notes:** Easily add new notes with a title and content.
